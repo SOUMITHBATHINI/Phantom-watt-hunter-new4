@@ -2,5 +2,4 @@
 streamlit
 pandas
 plotly
-fastapi
-uvicorn
+pyarrow<25.0.0
